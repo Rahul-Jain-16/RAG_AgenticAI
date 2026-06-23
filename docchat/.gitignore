@@ -1,0 +1,8 @@
+.gradio/
+.theia/
+__pycache__/
+*.pyc
+.env
+venv/
+app.log
+document_cache/
