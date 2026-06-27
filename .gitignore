@@ -1,0 +1,6 @@
+.theia/
+.gradio/
+__pycache__/
+*.pyc
+.env
+venv/
